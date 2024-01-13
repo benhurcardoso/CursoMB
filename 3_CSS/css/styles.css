@@ -11,3 +11,46 @@ h3 {
 p {
     color: blueviolet;
 }
+
+/* classes */
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+/* ids */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* ordem das regras */
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
+
+/* nome de cores */
+.color-name {
+    color:crimson;
+}
+
+/* Hex */
+.hex {
+    color: #55a398;
+}
+
+.hex-2{
+    color: #6675a5;
+}
